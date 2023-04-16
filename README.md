@@ -1,2 +1,3 @@
-# PL_MPEG_Sharp
-C# port of the single file C library "PL_MPEG" for decoding MPEG1 Video and MP2 Audio
+# PLMpegSharp - MPEG1 Video decoder, MP2 Audio decoder, MPEG-PS demuxer
+
+A C# .NET7 native port of https://github.com/phoboslab/pl_mpeg without any dependencies
