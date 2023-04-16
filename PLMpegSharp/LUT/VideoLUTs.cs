@@ -1,4 +1,6 @@
-﻿namespace PLMpegSharp.LUT
+﻿using System.Collections.Generic;
+
+namespace PLMpegSharp.LUT
 {
     internal static class VideoLUTs
     {

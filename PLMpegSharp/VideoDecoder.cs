@@ -1,5 +1,7 @@
 ﻿using PLMpegSharp.Container;
 using PLMpegSharp.LUT;
+using System;
+using System.IO;
 using System.Runtime.CompilerServices;
 
 namespace PLMpegSharp

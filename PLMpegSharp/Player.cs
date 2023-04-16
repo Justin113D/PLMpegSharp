@@ -1,4 +1,6 @@
 ﻿using PLMpegSharp.Container;
+using System;
+using System.IO;
 
 namespace PLMpegSharp
 {

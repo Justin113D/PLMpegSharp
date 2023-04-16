@@ -1,4 +1,6 @@
-﻿namespace PLMpegSharp.Container
+﻿using System;
+
+namespace PLMpegSharp.Container
 {
     /// <summary>
     /// Demuxed MPEG PS packet
